@@ -1,2 +1,2 @@
 # maggiezhang
-private
+private study resource
